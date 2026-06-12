@@ -1,5 +1,9 @@
-access_log_Aug95
-access_log_Jul95
-de-gap-plan.md
-log-analytics-project.md
-
+venv/
+data/raw/
+data/staging/
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
+stuff-to-help-me-learn/
+.python-version
